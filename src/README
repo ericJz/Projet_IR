@@ -1,0 +1,30 @@
+###################################
+############# BonBomb #############
+###################################
+
+
+1. "make"
+
+2. Lancer le serveur de nommage "./nommage.sh"
+
+3. Lancer le serveur "./serveur.sh"
+
+4. Lancer le client "./client.sh"
+
+5. Amusez-vous
+
+6. Pour générer la doc : "make documentation"
+
+
+#~#~#~#~#~#~###########~#~#~#~#~#~#
+############ Structure ############
+
+/lib 			pour les .jar utilisés
+/src 			pour toutes les sources .java
+/classes 		pour tout les .class
+/Client 		pour les .class nécessaires au client
+/Serveur 		pour les .class nécessaires au serveur
+/rmiregistry 	pour les .class nécessaires au serveur de nommage
+
+###################################
+

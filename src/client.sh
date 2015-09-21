@@ -1,0 +1,1 @@
+java -Xms256m -Xmx512m -cp ./Client/classes:./lib Client.Client
